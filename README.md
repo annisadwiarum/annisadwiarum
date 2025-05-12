@@ -1,4 +1,6 @@
-## こんにちは、みんなさん！👋
+<!-- ## こんにちは、みんなさん！👋 -->
+
+![Annisa Dwi Arum](img/github-header-image.png)
 
 <!--
 **annisadwiarum/annisadwiarum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
