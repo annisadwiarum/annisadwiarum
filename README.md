@@ -1,4 +1,5 @@
-<!-- ## こんにちは、みんなさん！👋 -->
+## こんにちは、みんなさん！👋
+#### i wanna say thanks to everyone who has been kind to me.
 
 ![Annisa Dwi Arum](img/github-header-image%20(11).png)
 
