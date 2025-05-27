@@ -1,7 +1,7 @@
 ## こんにちは、みんなさん！👋
 #### i wanna say thanks to everyone who has been kind to me, being patient with me, accompanying me in growing and developing, building each other up without bringing each other down, and understanding even without words being spoken.
 
-![Annisa Dwi Arum](img/github-header-image%20(11).png)
+<!-- ![Annisa Dwi Arum](img/github-header-image%20(11).png) -->
 
 ##### Skills
 
