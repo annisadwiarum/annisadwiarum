@@ -12,19 +12,19 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annisadwiarum/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annisadwiarum/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/annisa.d.arum/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/annisadwiarum) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Annisa-Dwi-Arum) -->
 
-##### Pacman ><
+<!-- ##### Pacman ><
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-##### Stats
+<!-- ##### Stats -->
 
 <!-- ![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisadwiarum&theme=dracula&show_icons=true) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 
 
 
