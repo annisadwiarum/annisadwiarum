@@ -22,11 +22,9 @@ Full-stack developer passionate about building clean, scalable web applications.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisadwiarum&theme=dracula&show_icons=true&hide_border=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisadwiarum&theme=dark&show_icons=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 
 <!-- ##### Connect With Me
 
