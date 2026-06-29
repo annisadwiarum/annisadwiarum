@@ -20,11 +20,11 @@ Full-stack developer passionate about building clean, scalable web applications.
 **Languages & Tools**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Alpine JS](https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
 
----
+<!-- ---
 
 ### GitHub Stats
 
-![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisadwiarum&theme=dark&show_icons=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+![Annisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=annisadwiarum&theme=dark&show_icons=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" /> -->
 
 <!-- ##### Connect With Me
 
