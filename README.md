@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Annisa.+👋;Full-stack+Developer;Passionate+about+clean+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%27m+Annisa.;Full-stack+Developer;Passionate+about+clean+code." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 
 ---
 
-### 💫 About Me
+### About Me
 Full-stack developer passionate about building clean, scalable web applications. I enjoy learning new technologies, solving complex logical problems, and collaborating with great teams to build meaningful projects.
 
-- 🔭 **Current Focus:** Developing high-performance web applications and mastering modern architectures.
-- 🌱 **Learning & Improving:** Deepening my knowledge in NestJS, system design, and clean architecture.
-- 💬 **Ask me about:** Frontend development, Laravel ecosystem, or anything related to Javascript/PHP.
-- ⚡ **Fun fact:** I believe clean code is like good literature—it's written for humans to read, not just machines to execute.
+- **Current Focus:** Developing high-performance web applications and mastering modern architectures.
+- **Learning & Improving:** Deepening my knowledge in NestJS, system design, and clean architecture.
+- **Interests:** Frontend development, Laravel ecosystem, and TypeScript/PHP development.
+- **Philosophy:** I believe clean code is like good literature—it's written for humans to read, not just machines to execute.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -64,19 +64,10 @@ Full-stack developer passionate about building clean, scalable web applications.
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annisadwiarum&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annisadwiarum&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <b>Pacman Eating My Contributions! 👾</b>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/annisadwiarum/annisadwiarum/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
